@@ -1,7 +1,7 @@
-# AR Headset R&D - Adam Stephenson
-Code by me
+# AR Headset R&D
+Code by [me](https://www.adam-stephenson.co.uk/)
 
-In collaboration with Ben Fredericks
+In collaboration with [Ben Fredericks](https://benfredericks.co.uk/)
 
 ## How to use
 1. Download and launch the Unity project using Unity 2022.2.0b5.
