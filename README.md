@@ -1,5 +1,6 @@
 # AR Headset R&D - Adam Stephenson
-## In collaboration with Ben Fredericks for Choosing Children, an immersive theatre performance
+Code by me
+In collaboration with Ben Fredericks
 
 ## How to use
 Download and launch the Unity project using Unity 2022.2.0b5.
