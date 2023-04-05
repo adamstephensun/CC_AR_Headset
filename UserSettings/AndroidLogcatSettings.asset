@@ -1,9 +1,9 @@
 {
-    "m_SelectedDeviceId": "0A061JEC209995",
+    "m_SelectedDeviceId": "R58M55CHXYW",
     "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "R58M55CHXYW",
+        "name": "com.AdamStephenson.ChoosingChildrenrd2",
+        "processId": 23907,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -31,6 +31,66 @@
             "name": "com.AdamStephenson.ChoosingChildrenrd2",
             "processId": 11108,
             "exited": true
+        },
+        {
+            "deviceId": "0A061JEC209995",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 20972,
+            "exited": false
+        },
+        {
+            "deviceId": "0A061JEC209995",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 25837,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 19923,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 11902,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 30304,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 5911,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 10160,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 15689,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 17794,
+            "exited": false
+        },
+        {
+            "deviceId": "R58M55CHXYW",
+            "name": "com.AdamStephenson.ChoosingChildrenrd2",
+            "processId": 23907,
+            "exited": false
         }
     ],
     "m_Tags": {

@@ -37,7 +37,7 @@ public class Cameras : MonoBehaviour        //Master class for the app, controls
 
     float holdTimer = 0;    //Timer for tap and hold input
     int currentBSLPosition = 0;
-    float[] bslPositions = {-200, -150, -100};
+    float[] bslPositions = {-50, -0, 50};
 
 ////////////////////
     void Start(){

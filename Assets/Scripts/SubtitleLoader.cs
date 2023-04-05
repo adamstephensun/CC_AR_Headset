@@ -95,7 +95,7 @@ public class Subtitles{         //Data classes to match the format of the JSON f
     public string name;
     public bool usingDuration;
     public List<Line> lines;
-}
+}   
 
 [System.Serializable]           //Data subclass
 public class Line{
